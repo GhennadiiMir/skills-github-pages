@@ -1,7 +1,5 @@
 ---
-title: Test progect for Github Pages hosted file
+title: Test project for Github Pages hosted file
 ---
 
-# This is a test Home page
-
-We re testing the Github Pages functionality
+We are testing the Github Pages functionality
